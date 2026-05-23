@@ -1,0 +1,38 @@
+# DOPO Hardest Game Save State (Plain Text Format)
+# Este archivo es legible y editable. Modifica los valores con cuidado en el Bloc de notas.
+
+[Game]
+mode=SINGLE_PLAYER
+currentLevelIndex=1
+state=PAUSED
+aiProfile=null
+
+[Timer]
+timeLimitSeconds=60
+pausedElapsedMillis=3604
+running=true
+paused=true
+
+[Player1]
+name=Jugador 1
+originalType=BLUE
+activeType=BLUE
+posX=7
+posY=9
+respawnX=7
+respawnY=9
+deaths=0
+speed=1.5
+shieldActive=false
+coinsCollected=2
+invincible=false
+invincibilityTicks=0
+reachedGoal=false
+levelGoalReachedTimeMs=0
+totalGoalReachedTimeMs=8524
+levelWins=1
+borderColor=#ffffff
+goalCell=SAFE_FINAL
+
+[Coins]
+collected=true,true,false,false,false
